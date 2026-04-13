@@ -1,1 +1,29 @@
-/.venv
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.env
+.env.local
+*.env.*
+.python-version
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints*
+nbproject/
+nbproject.lock
+nbproject/user/
+nbproject/metadata/
+```
